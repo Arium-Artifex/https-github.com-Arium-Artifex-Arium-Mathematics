@@ -28,17 +28,4 @@ https://github.com/Arium-Artifex/Arium-Mathematics/issues/new?template=contact.m
 Full legal text: see [LICENSE](LICENSE)  
 Short link: https://creativecommons.org/licenses/by-sa/4.0/
 
-This combination gives the widest possible academic and open-source collaboration while preserving the originator’s right to control monetisation.
-
----
-
-Everything below this line stays exactly as we planned:
-
-**Core claim**  
-Any system governed by thresholds of integrity can be exactly described using integer counters (naturals ♮), Indexes (ℐ), and two terminal states (+1 and –∞) instead of continuous fields or meshes.
-
-**Current codified axioms**  
-AI-1 to AI-33 (latest: Index Hierarchy ℐ₀, ℐₘ, ℐₙ) — see /axioms/
-
-**Genesis conversation** (redacted)  
-Available in /genesis/
+I aim therefore with this license for the widest possible academic and open-source collaboration but preserve and control any monetisation and commercial interests.
