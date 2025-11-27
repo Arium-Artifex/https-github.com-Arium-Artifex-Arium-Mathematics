@@ -20,7 +20,8 @@ with one additional binding condition.
 
 **Additional commercial restriction**  
 Any **commercial exploitation** or creation of **commercial derivative works**  
-requires **explicit written permission** from the originator.  
+requires **explicit written permission** from myself as originator.  
+
 Contact:   
 Contact for commercial licensing or private discussion:
 https://github.com/Arium-Artifex/Arium-Mathematics/issues/new?template=contact.md
